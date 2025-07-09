@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mostafizur Rahman Badhon</h1>
 <h3 align="center">🚀 Mobile App Developer | Flutter | Android | iOS</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="yourusername" />
-</p>
-
----
 
 ### 💼 About Me
 
@@ -41,10 +36,3 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox)](https://yourportfolio.com)  
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@example.com)
 
----
-
-<!-- Optional Section -->
-### 📱 Featured Projects
-
-- 🚀 [Awesome Flutter App](https://github.com/yourusername/flutter-awesome-app) — An e-commerce app using Firebase & Provider  
-- 📸 [PhotoSnap](https://github.com/yourusername/photosnap) — A photo-sharing mobile app with image editing tools  
